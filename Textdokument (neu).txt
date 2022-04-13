@@ -2,6 +2,7 @@ Test
 
 Feature 1
 	Change 1
+	Change 2
 Feature 2
 	change 1
 	change 2
